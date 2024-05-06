@@ -1,0 +1,758 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\repository\\reviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:repository\\reviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|c:\\users\\sever\\desktop\\itvdn hw\\\u0434\u0437\\dogsreviewapp\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\interfaces\\ireviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:interfaces\\ireviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|c:\\users\\sever\\desktop\\itvdn hw\\\u0434\u0437\\dogsreviewapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\repository\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:repository\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\interfaces\\idogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:interfaces\\idogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\dogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:models\\dogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\dogowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:models\\dogowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\dto\\dogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:dto\\dogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\dto\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:dto\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\dto\\reviewerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:dto\\reviewerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\dogsreviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:dogsreviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|solutionrelative:models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|PokemonReviewApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Migrations\\20240430122601_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422C5EC-6AAE-4D32-804E-5A57A685BDFF}|DogsReviewApp.csproj|solutionrelative:Migrations\\20240430122601_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 456,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewerController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\ReviewerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewerController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\ReviewerController.cs",
+              "RelativeToolTip": "Controllers\\ReviewerController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswJAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:43:40.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reviewer.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Reviewer.cs",
+              "RelativeDocumentMoniker": "Models\\Reviewer.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Reviewer.cs",
+              "RelativeToolTip": "Models\\Reviewer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:53:56.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReviewerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\IReviewerRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReviewerRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\IReviewerRepository.cs",
+              "RelativeToolTip": "Interfaces\\IReviewerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:25:25.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "Repository\\ReviewRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:37:53.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\ReviewerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ReviewerRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\ReviewerRepository.cs",
+              "RelativeToolTip": "Repository\\ReviewerRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:29:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:14:58.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAIUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:13:21.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:22:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAQwIAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:14:55.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\DogController.cs",
+              "RelativeToolTip": "Controllers\\DogController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswJYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:37:06.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "Controllers\\OwnerController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAwJYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:02:56.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\ReviewDto.cs",
+              "RelativeToolTip": "Dto\\ReviewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:15:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OwnerRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\OwnerRepository.cs",
+              "RelativeToolTip": "Repository\\OwnerRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:36:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Dog.cs",
+              "RelativeToolTip": "Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:04:22.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\DogRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DogRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\DogRepository.cs",
+              "RelativeToolTip": "Repository\\DogRepository.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAADwv2UAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:24:42.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\IDogRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDogRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\IDogRepository.cs",
+              "RelativeToolTip": "Interfaces\\IDogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:13:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\IOwnerRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOwnerRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\IOwnerRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOwnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:39:18.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\CountryRepository.cs",
+              "RelativeToolTip": "Repository\\CountryRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:49:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:55:55.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wDMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:07:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:56:20.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:23:15.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:03:32.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DogCategory.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\DogCategory.cs",
+              "RelativeDocumentMoniker": "Models\\DogCategory.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\DogCategory.cs",
+              "RelativeToolTip": "Models\\DogCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:44:43.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:56:11.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "Models\\Owner.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Owner.cs",
+              "RelativeToolTip": "Models\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:01:47.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DogOwner.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\DogOwner.cs",
+              "RelativeDocumentMoniker": "Models\\DogOwner.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\DogOwner.cs",
+              "RelativeToolTip": "Models\\DogOwner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:29:37.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:09:56.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\CountryDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\CountryDto.cs",
+              "RelativeToolTip": "Dto\\CountryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:25:25.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DogDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\DogDto.cs",
+              "RelativeDocumentMoniker": "Dto\\DogDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\DogDto.cs",
+              "RelativeToolTip": "Dto\\DogDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:12:21.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OwnerDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\OwnerDto.cs",
+              "RelativeDocumentMoniker": "Dto\\OwnerDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\OwnerDto.cs",
+              "RelativeToolTip": "Dto\\OwnerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:07:27.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReviewerDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\ReviewerDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ReviewerDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\ReviewerDto.cs",
+              "RelativeToolTip": "Dto\\ReviewerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:43:00.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:17:54.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Dto\\CategoryDto.cs",
+              "RelativeToolTip": "Dto\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:21:27.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Seed.cs",
+              "RelativeDocumentMoniker": "Seed.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Seed.cs",
+              "RelativeToolTip": "Seed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:17:46.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:47:49.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DogsReviewApp.csproj",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\DogsReviewApp.csproj",
+              "RelativeDocumentMoniker": "DogsReviewApp.csproj",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\DogsReviewApp.csproj",
+              "RelativeToolTip": "DogsReviewApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T12:18:39.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T11:14:48.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240430122601_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Migrations\\20240430122601_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240430122601_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Migrations\\20240430122601_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240430122601_InitialCreate.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:26:01.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:42:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "Models\\Owner.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Owner.cs",
+              "RelativeToolTip": "Models\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:40:54.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:52:42.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:44:33.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\\u0414\u0417\\DogsReviewApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T14:56:41.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
